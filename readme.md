@@ -1,5 +1,9 @@
 # wfx_cdr — CD/DVD burning plugin for Total Commander
 
+![overview](joverview.png)
+![global](global.png)
+![project](project.png)
+
 A Total Commander file-system plugin (WFX) that lets you prepare files for
 burning to CD/DVD as virtual **projects** and burn them with Jörg Schilling's
 **cdrtools** — a Total Commander–native take on [cdrtfe](https://cdrtfe.sourceforge.io/cdrtfe/index_en.html).
