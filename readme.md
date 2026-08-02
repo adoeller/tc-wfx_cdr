@@ -1,6 +1,6 @@
 # wfx_cdr — CD/DVD burning plugin for Total Commander
 
-![overview](joverview.png)
+![overview](overview.png)
 ![global](global.png)
 ![project](project.png)
 
